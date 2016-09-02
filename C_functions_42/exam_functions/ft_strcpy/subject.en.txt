@@ -1,0 +1,7 @@
+Assignment name		:	ft_strcpy
+File name			:	ft_strcpy.c
+
+------------------------------------------------------------------------------------
+
+Reproduce the behaivor of the function strcpy.
+
